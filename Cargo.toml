@@ -7,3 +7,5 @@ authors = ["Matthew Downs <mwdowns@gmail.com>"]
 dotenv = "0.11.0"
 mysql_async = "0.12.2"
 dotenv_codegen = "*"
+futures = "0.1.18"
+tokio-core = "0.1.14"

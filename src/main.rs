@@ -3,7 +3,7 @@
 #[macro_use]
 extern crate dotenv_codegen;
 extern crate mysql_async as my;
-// extern crate tokio_core as tokio;
+extern crate tokio_core as tokio;
 
 // use futures::Future;
 // use my::prelude::*;
